@@ -2,7 +2,7 @@
 
 I'm an **Information Systems student at Towson University (Data Analytics Track)** building practical projects in **Python, SQL, and data-driven automation**. I like turning messy requirements into clean systems, dashboards, and tools that actually help people.
 
-📍 Towson, MD
+📍 Towson, MD + Laurel, MD
 📫 **[abelberhanu005@gmail.com](mailto:abelberhanu005@gmail.com)**
 🔗 [LinkedIn](https://linkedin.com/in/abel-berhanu-linked)
 
