@@ -20,8 +20,7 @@ A degree planning web app that generates optimized **semester-by-semester gradua
 * Tracks **TU Core completion (14 courses)** and progress toward **120 credits**
 * Supports planning across **70+ courses** for IS majors
 
-🔗 Repo: *(add your PathFinder repo link here)*
-
+🔗 Repo: (https://github.com/abelberhanuu/TU-Pathfinder.git)
 ---
 
 ## 🧰 Skills
