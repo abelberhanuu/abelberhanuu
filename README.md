@@ -52,4 +52,4 @@ A degree planning web app that generates optimized **semester-by-semester gradua
 ## 🎯 Currently
 
 * Improving Towson IS PathFinder (planner logic + UI + progress tracking)
-* Building more analytics projects using **Python + SQL**
+* Seeking 2026 internships
