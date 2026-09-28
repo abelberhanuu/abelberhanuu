@@ -1,4 +1,4 @@
-## Hi, I'm Abel 👋
+## Hi, I'm Abel
 
 I'm an **Information Systems student at Towson University (Data Analytics Track)** building practical projects in **Python, SQL, and data-driven automation**. I like turning messy requirements into clean systems, dashboards, and tools that actually help people.
 
@@ -8,7 +8,7 @@ I'm an **Information Systems student at Towson University (Data Analytics Track)
 
 ---
 
-## 🚀 Featured Project: Towson IS PathFinder (Flask) 🎓📊
+## Featured Project: Towson IS PathFinder (Flask) 
 
 A degree planning web app that generates optimized **semester-by-semester graduation plans** for Towson IS students.
 
@@ -20,10 +20,10 @@ A degree planning web app that generates optimized **semester-by-semester gradua
 * Tracks **TU Core completion (14 courses)** and progress toward **120 credits**
 * Supports planning across **70+ courses** for IS majors
 
-🔗 Repo: (https://github.com/abelberhanuu/TU-Pathfinder.git)
+Repo: (https://github.com/abelberhanuu/TU-Pathfinder.git)
 ---
 
-## 🧰 Skills
+## Skills
 
 **Languages:** Python, SQL (PostgreSQL), Java, JavaScript, R
 **Data & Analytics:** Pandas, Tableau, Power BI, Excel, Data Visualization
@@ -32,7 +32,7 @@ A degree planning web app that generates optimized **semester-by-semester gradua
 
 ---
 
-## 🏆 Experience & Involvement
+## Experience & Involvement
 
 * **Baltimore Ravens Analytics Mentorship Program** — Data Analytics Mentee
 * **Towson University Data Analytics Competition** — Participant
@@ -40,7 +40,7 @@ A degree planning web app that generates optimized **semester-by-semester gradua
 
 ---
 
-## 📌 Other Projects
+## Other Projects
 
 **Homelab — Network-Wide Ad Blocker (Pi-hole)**
 
@@ -49,7 +49,7 @@ A degree planning web app that generates optimized **semester-by-semester gradua
 
 ---
 
-## 🎯 Currently
+## Currently
 
 * Improving Towson IS PathFinder (planner logic + UI + progress tracking)
 * Seeking 2026 internships
