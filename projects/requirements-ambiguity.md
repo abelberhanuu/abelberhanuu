@@ -21,6 +21,8 @@ The classification examples supported clearer, measurable, and testable software
 
 Requirements engineering, specification review, classification, LLM applications, and technical communication.
 
-## Publication status
+## Runnable portfolio implementation
 
-This page summarizes the project described in my resume. Model implementation, dataset, prompts, and evaluation results are not published here; no accuracy or performance improvement is claimed.
+[Requirements Quality Lab](https://github.com/abelberhanuu/requirements-quality-lab) is a new November 2026 implementation inspired by the four-label review task. It provides an offline heuristic baseline, an optional JSON-mode LLM adapter, a local browser interface, JSON/CSV exports, and per-label/micro evaluation metrics.
+
+The repository includes 16 hand-authored illustrative examples and 10 automated tests, including a mock model endpoint. It is not a reproduction or validation of the full LC LQ ontology. Live model quality and historical evaluation results have not been measured.
