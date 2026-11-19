@@ -25,6 +25,8 @@ The contribution is a traceable requirements and documentation foundation for da
 
 Requirements analysis, process documentation, database planning, stakeholder communication, and document organization.
 
-## Publication status
+## Runnable portfolio implementation
 
-This page is a portfolio summary. Client documents, resident data, payment records, and implementation files are not included.
+[Care Collective Operations](https://github.com/abelberhanuu/care-collective-operations) is a new November 2026 prototype inspired by the requirements work above. It implements resident records, exact-cent charges/payments, balances, transactional inventory adjustments, tasks, CSV reporting, and an application audit log using Python and SQLite.
+
+The repository contains a local browser interface, fictional sample records, and 9 automated tests. It is a single-user demonstration, not a historical client deployment or a production care-record system. Client documents and real resident or financial data are not included.
