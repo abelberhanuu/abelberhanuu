@@ -20,15 +20,15 @@ A Python/Flask degree-planning application that loads curriculum data with Panda
 
 [Source and setup](https://github.com/abelberhanuu/TU-Pathfinder) · [Application details](https://github.com/abelberhanuu/TU-Pathfinder/blob/main/pathfinder/README.md)
 
-## Resume project notes
+## Resume projects and runnable implementations
 
-| Project | Contribution and outcome | Evidence |
+| Project | Runnable implementation | Background |
 | --- | --- | --- |
-| Pi-hole homelab | Debian Linux deployment providing DNS filtering across home devices | [Deployment summary and metric assumptions](projects/pihole.md) |
-| Care Collective Home Operations System | Requirements across four operational areas; organized documentation supporting database and reporting design | [Ongoing project summary](projects/care-collective.md) |
-| Requirements Ambiguity Detection Using LLMs | Classification examples covering four defect types to support testable specifications | [Project summary](projects/requirements-ambiguity.md) |
+| Pi-hole homelab | [Pi-hole Insights](https://github.com/abelberhanuu/pihole-insights): read-only DNS analytics, a dashboard, and JSON/CSV reports | [Deployment summary and metric assumptions](projects/pihole.md) |
+| Care Collective Home Operations System | [Care Collective Operations](https://github.com/abelberhanuu/care-collective-operations): SQLite-backed residents, charges/payments, inventory, tasks, and audit records | [Requirements project summary](projects/care-collective.md) |
+| Requirements Ambiguity Detection Using LLMs | [Requirements Quality Lab](https://github.com/abelberhanuu/requirements-quality-lab): offline review, an optional LLM adapter, exports, and evaluation tools | [Original project summary](projects/requirements-ambiguity.md) |
 
-These notes describe resume projects. They are documentation pages; their configuration exports or application implementations are not published in this repository.
+The runnable implementations were created in **November 2026** to extend these portfolio topics. All core demos run locally with Python 3.11+ and no third-party dependencies. They include synthetic examples and **27 automated tests** across the three projects. The requirements reviewer supports a configured model endpoint; live model quality and historical deployment outcomes are not established by these demos.
 
 ## Technical skills
 
