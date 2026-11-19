@@ -27,6 +27,8 @@ This counter covers the lifetime of the current database table. Recreating or re
 
 Reference: [Pi-hole query database and counters](https://docs.pi-hole.net/database/query-database/).
 
-## Portfolio evidence
+## Runnable reporting implementation
 
-This page documents the deployment described in my resume. A reproducible configuration export, redacted dashboard image, and measured counter would provide additional evidence of its scope.
+[Pi-hole Insights](https://github.com/abelberhanuu/pihole-insights) is a new November 2026 implementation extending this homelab topic. It reads a Pi-hole SQLite database in read-only mode, distinguishes retained history from lifetime counters, and provides a local dashboard plus JSON/CSV exports.
+
+The standalone repository includes a synthetic demo and 8 automated tests. Its fixture values do not measure my home network. A real, readable Pi-hole database is needed to replace the scenario estimate with measured counters.
