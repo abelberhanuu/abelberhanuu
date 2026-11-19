@@ -45,22 +45,7 @@ A degree-planning application that converts curriculum data and prerequisite rul
 
 [Code and quick start](https://github.com/abelberhanuu/TU-Pathfinder#readme) · [Application details](https://github.com/abelberhanuu/TU-Pathfinder/blob/main/pathfinder/README.md)
 
-### [Pi-hole Insights](https://github.com/abelberhanuu/pihole-insights)
-**Python · SQLite · Debian Linux · DNS**
 
-Read-only analytics for Pi-hole query history, extending my home-network filtering project.
-
-- Separates retained history from lifetime counters and groups DNS activity by day and blocking category.
-- Provides a local dashboard and JSON/CSV exports without exporting client identities or browsing domains.
-- Supports two query-storage layouts and includes **8 automated tests**.
-
-[Code and quick start](https://github.com/abelberhanuu/pihole-insights#readme) · [Homelab background and metric assumptions](projects/pihole.md)
-
-## Engineering evidence
-
-The three newer implementations were created in **November 2026** and run locally with **Python 3.11+ and no third-party dependencies** for their core demos.
-
-**27 automated tests** cover reporting, monetary accuracy, database constraints, transactional rollback, HTTP request guards, input validation, and model-response handling. GitHub Actions runs the suites on **Python 3.11, 3.12, and 3.13**.
 
 [Care Collective checks](https://github.com/abelberhanuu/care-collective-operations/actions) · [Requirements Lab checks](https://github.com/abelberhanuu/requirements-quality-lab/actions) · [Pi-hole checks](https://github.com/abelberhanuu/pihole-insights/actions)
 
